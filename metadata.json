@@ -1,0 +1,8 @@
+{
+  "name": "Remix SISTEMA FÊNIX ",
+  "description": "Sistema de gestão e CRM Fênix World com ambiente corporativo premium, cadastro de clientes e módulo operacional de Agendamento, Visitas e Instalações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
